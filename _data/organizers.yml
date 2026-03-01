@@ -1,10 +1,31 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+- group: "Organizers"
+  elements:
+    - name: "HTW Berlin"
+      description: "HTW Berlin"
+      link: "https://www.htw-berlin.de/"
+      imageUrl: "Q04_HTW_Berlin_Logo_quer_pos_FARBIG_RGB.jpg"
+
+    - name: "Complexity Science Hub Vienna"
+      description: "Complexity Science Hub Vienna"
+      link: "https://www.csh.ac.at/"
+      imageUrl: "Complexity-Science-Hub_schwarz_RGB.svg"
+
+    - name: "Poznań University of Economics and Business"
+      description: "Poznań University of Economics and Business"
+      link: "https://ue.poznan.pl/en/"
+      imageUrl: "UEP-logo-OLD-289x400.png"
+
+    - name: "IMT School for Advanced Studies Lucca"
+      description: "IMT School for Advanced Studies Lucca"
+      link: "https://www.imtlucca.it/"
+      imageUrl: "Official_IMT_School_Logo.jpg"
+
+    - name: "University of Amsterdam"
+      description: "University of Amsterdam"
+      link: "https://www.uva.nl/"
+      imageUrl: "Amsterdamuniversitylogo.svg"
+
+    - name: "ZHAW"
+      description: "Zurich University of Applied Sciences"
+      link: "https://www.zhaw.ch/"
+      imageUrl: "ZHAW.png"
