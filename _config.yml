@@ -35,6 +35,8 @@ typeoutFallback: "Frontiers in DeFi"
 heroButtons:
  - {link: "https://pretix.eu/defi/defi-2026/", text: "Registration"}
  - {permalink: "/schedule/", text: "Program"}
+#LAtest news
+latestNewsTitle: "About the Workshop"
 
  # Rockstar Speakers Block (this is the "Organizers" section with round photos)
 rockstarSpeakersImage: "rockstar-speakers.jpg"
