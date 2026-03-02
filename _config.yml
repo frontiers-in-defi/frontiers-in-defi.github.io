@@ -2,7 +2,7 @@
 title: "Frontiers in DeFi"
 email: "frontiers-defi@htw-berlin.de"
 description: "Frontiers in DeFi is an interdisciplinary workshop on decentralized finance (DeFi)."
-baseurl: "/Berlin2026"   
+baseurl: ""   
 url: "https://frontiers-in-defi.github.io"
 
 # Organizer Info
@@ -14,29 +14,32 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.htw-berlin.de/"
 
 # Navigation (tabs)
-navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/registration/", text: "Registration"}
+#navigationLinks:
+# - {permalink: "/", text: "Home"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/registration/", text: "Registration"}
 
 # Top-right buttons (previous events)
-rightNavigationButtons:
- - {link: "https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/", text: "2025"}
- - {link: "https://csh.ac.at/events/frontiers-in-defi/", text: "2024"}
- - {link: "https://www.zhaw.ch/en/sml/institutes-centres/iwa/translate-to-english-veranstaltungen/translate-to-english-frontiers-in-decentralized-finance#c215728", text: "2023"}
+#rightNavigationButtons:
+# - {link: "https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/", text: "2025"}
+# - {link: "https://csh.ac.at/events/frontiers-in-defi/", text: "2024"}
+# - {link: "https://www.zhaw.ch/en/sml/institutes-centres/iwa/translate-to-english-veranstaltungen/translate-to-english-frontiers-in-decentralized-finance#c215728", text: "2023"}
 
 # Hero Block
 heroImage: "FrontiersDeFi2026.jpg"
 heroTitle: "<typeout>"
-eventDate: "28 May 2026 — Berlin"
+#eventDate: "28 May 2026 — Berlin"
 typeoutTextValues: '"Frontiers in DeFi", "Decentralized Finance", "DAO", "Blockchain analytics"'
 typeoutFallback: "Frontiers in DeFi"
 heroButtons:
- - {link: "https://frontiers-in-defi.github.io/Berlin2026/registration/", text: "Registration"}
- - {permalink: "/schedule/", text: "Program"}
+  - {link: "https://frontiers-in-defi.github.io/Berlin2026/", text: "2026"}
+  - {link: "https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/", text: "2025"}
+  - {link: "https://csh.ac.at/events/frontiers-in-defi/", text: "2024"}
+  - {link: "https://www.zhaw.ch/en/sml/institutes-centres/iwa/translate-to-english-veranstaltungen/translate-to-english-frontiers-in-decentralized-finance#c215728", text: "2023"}
+
 #LAtest news
-latestNewsTitle: "About the Workshop"
+#latestNewsTitle: "About the Workshop"
 
  # Rockstar Speakers Block (this is the "Organizers" section with round photos)
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -45,41 +48,41 @@ rockstarSpeakersTitle: "Organizers"
 rockstarSpeakersButtonText: "All Speakers"
 
 # About Block (3 tiles)
-aboutTitle: "Key Topics"
-aboutBlock:
- - {title: "Risk & Performance", image: "conference.jpg", text: "Risks, efficiency, and performance metrics in DeFi systems; systemic risk, stability, and network effects."}
- - {title: "Governance & Regulation", image: "workshop.jpg", text: "Regulatory frameworks and policy design; governance models and decision-making in DAOs."}
- - {title: "Markets & Infrastructure", image: "hackathon.jpg", text: "Market dynamics & pricing; digital currencies & financial infrastructure; transparency & accountability."}
+#aboutTitle: "Key Topics"
+#aboutBlock:
+ #- {title: "Risk & Performance", image: "conference.jpg", text: "Risks, efficiency, and performance metrics in DeFi systems; systemic risk, stability, and network effects."}
+ #- {title: "Governance & Regulation", image: "workshop.jpg", text: "Regulatory frameworks and policy design; governance models and decision-making in DAOs."}
+ #- {title: "Markets & Infrastructure", image: "hackathon.jpg", text: "Market dynamics & pricing; digital currencies & financial infrastructure; transparency & accountability."}
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Einstein Center Digital Future"
-eventLocationLink: "https://www.digital-future.berlin/en/"
-eventStreetAddress: "Wilhelmstraße 67"
-eventAddressLocality: "Berlin"
-eventPostalCode: "10117"
-eventAddressCountry: "Germany"
-eventPlaceCoordinates: "52.51842, 13.38064"
-mapCenterCoordinates: "52.51842, 13.38064"
-mapMobileCenterCoordinates: "52.51842, 13.38064"
+#locationBlockTitle: "Location"
+#eventLocationName: "Einstein Center Digital Future"
+#eventLocationLink: "https://www.digital-future.berlin/en/"
+#eventStreetAddress: "Wilhelmstraße 67"
+#eventAddressLocality: "Berlin"
+#eventPostalCode: "10117"
+#eventAddressCountry: "Germany"
+#eventPlaceCoordinates: "52.51842, 13.38064"
+#mapCenterCoordinates: "52.51842, 13.38064"
+#mapMobileCenterCoordinates: "52.51842, 13.38064"
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "ECDF.jpg"
-venueSmallImage1: "ECDF_hall.jpg"
-venueSmallImage3: "ECDF_lolgo.png"
+#venueBlockTitle: "Venue"
+#venueBigImage: "ECDF.jpg"
+#venueSmallImage1: "ECDF_hall.jpg"
+#venueSmallImage3: "ECDF_lolgo.png"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "Large event hall"
+#venueTitle: "Large event hall"
 
-ticketsTitle: "Registration"
-ticketsInfo: "If you have any issues with registration, contact us at frontiers-defi@htw-berlin.de."
+#ticketsTitle: "Registration"
+#ticketsInfo: "If you have any issues with registration, contact us at frontiers-defi@htw-berlin.de."
 
-ticketsOffers:
-  - name: "Workshop Registration"
-    price: "See Pretix"
-    priceCurrency: ""
-    ticketContentList:
-      - "Opens 9 March 2026"
-      - "Register via Pretix (external link)"
-      - "Confirmation by email"
-    buyButtonLink: "https://pretix.eu/defi/defi-2026/"
-    buyButtonText: "Register on Pretix"
+#ticketsOffers:
+ # - name: "Workshop Registration"
+  #  price: "See Pretix"
+   # priceCurrency: ""
+    #ticketContentList:
+  #    - "Opens 9 March 2026"
+   #   - "Register via Pretix (external link)"
+    #  - "Confirmation by email"
+   # buyButtonLink: "https://pretix.eu/defi/defi-2026/"
+   # buyButtonText: "Register on Pretix"
