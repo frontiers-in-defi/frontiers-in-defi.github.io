@@ -23,7 +23,7 @@
     - name: "University of Amsterdam"
       description: "University of Amsterdam"
       link: "https://www.uva.nl/"
-      imageUrl: "Amsterdamuniversitylogo.svg"
+      imageUrl: "UvAlogo.png"
 
     - name: "ZHAW"
       description: "Zurich University of Applied Sciences"
