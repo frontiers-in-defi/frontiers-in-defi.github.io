@@ -1,3 +1,68 @@
+
+
+# ---- Organizers (show on HOME page) ----
+- id: 101
+  name: "Alla"
+  surname: "Petukhina"
+  company: "HTW Berlin"
+  title: "Organizer"
+  thumbnailUrl: "AllaP2025.jpg"
+  rockstar: true
+  role: "organizer"
+
+- id: 102
+  name: "Christina"
+  surname: "Erlwein-Sayer"
+  company: "HTW Berlin"
+  title: "Organizer"
+  thumbnailUrl: "ChristinaES.png"
+  rockstar: true
+  role: "organizer"
+
+- id: 103
+  name: "Bernhard"
+  surname: "Haslhofer"
+  company: "Complexity Science Hub Vienna"
+  title: "Organizer"
+  thumbnailUrl: "bhaslhofer_2022.jpg"
+  rockstar: true
+  role: "organizer"
+
+- id: 104
+  name: "Barbara"
+  surname: "Będowska-Sójka"
+  company: "Poznań University of Economics and Business"
+  title: "Organizer"
+  thumbnailUrl: "Barbara.jpg"
+  rockstar: true
+  role: "organizer"
+
+- id: 105
+  name: "Pietro"
+  surname: "Saggese"
+  company: "IMT Lucca"
+  title: "Organizer"
+  thumbnailUrl: "PietroS.jpeg"
+  rockstar: true
+  role: "organizer"
+
+- id: 106
+  name: "Simon"
+  surname: "Trimborn"
+  company: "University of Amsterdam"
+  title: "Organizer"
+  thumbnailUrl: "trimborn.jpeg"
+  rockstar: true
+  role: "organizer"
+#------ Speakers sessions
+- id: 107
+  name: "Marcus"
+  surname: "Wunsch"
+  company: "ZHAW"
+  title: "Organizer"
+  thumbnailUrl: "csm_wuns_1771a5bba5.webp"
+  rockstar: true
+  role: "organizer"
 - id: 201
   name: "Claudio"
   surname: "Tessone"
